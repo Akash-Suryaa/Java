@@ -10,7 +10,7 @@ public class For_Each {
 			for(int x2:x) {
 				
 				System.out.println(x2);
-				
+				System.out.println("Akash");
 				
 			}
 			
